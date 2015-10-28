@@ -7,3 +7,5 @@ env:
   - RUN_MODE=beta
 
 script: true
+
+cache: true
